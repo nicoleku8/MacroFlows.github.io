@@ -23,7 +23,7 @@ repository               : "nicoleku8/MacroFlows.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.png"
+  avatar           : "profile.png"
   name             : "Nicole Ku"
   pronouns         : # example: "she/her"  
   bio              : "Nicole's academic portfolio"
