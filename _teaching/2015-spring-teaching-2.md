@@ -1,20 +1,14 @@
 ---
 title: "CS 4320: Database"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "Cornell University, Department"
-date: 2025-01-01
+type: "Undergraduate Course TA"
+permalink: /teaching/2025-Fall-cs4320
+venue: "Cornell University"
+date: 2025-09-01
 location: "Ithaca, NY"
 ---
+## 25 Fall Semester
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* **Data Architecture:** Relational & Non-Relational Models, Database Design, Storage Structures
+* **Querying & Optimization:** SQL, Query Languages, Query Processing, Query Optimization, Access Methods
+* **System Management:** Transaction Management, Recovery Systems, Data Storage Systems
