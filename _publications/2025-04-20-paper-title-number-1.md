@@ -17,7 +17,7 @@ While Large Language Models (LLMs) excel at sequential text generation, they oft
 
 The full technical report for my **Tree of Thoughts** reproduction can be found here:
 
-[**A Reproduction of Tree of Thoughts**](/images/tree_of_thoughts_2page_report.pdf)
+[**A Reproduction of Tree of Thoughts**]({{ base_path }}/images/tree_of_thoughts_2page_report.pdf)
 
 ---
 *Note: This project was completed as part of CS 4782: Deep Learning at Cornell University.*
