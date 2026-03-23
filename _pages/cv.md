@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Cornell University, 2025
-* [**Resume**](/images/NicoleKu_resume(vf).pdf)
+* [**Resume**]({{ base_path }}/images/NicoleKu_resume(vf).pdf)
 
 Papers
 ======
